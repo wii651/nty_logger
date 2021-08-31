@@ -1,0 +1,2 @@
+[2021-08-31 09:27:02]--[async_test.c:41:main()]--this is a async test from main thread
+[2021-08-31 09:27:02]--[async_test.c:28:routine()]--this is a async test from sub thread
